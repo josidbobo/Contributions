@@ -7,3 +7,7 @@ https://github.com/josidbobo/literate-octo-palm-tree/commit/9d89b7bf1d8f479cd112
 https://github.com/prince-curie/literate-octo-palm-tree/pull/15
 3. Worked on the corrections given by my team lead on the ERC-20 token file to create the token and assign permissions on the distributor file.
 https://github.com/josidbobo/literate-octo-palm-tree/commit/0c98be0d063862dbb157fed7f3025a52a97739d9
+
+# Second Task Contributions
+Worked on the Tests for our smart contract
+
