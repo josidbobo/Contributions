@@ -10,5 +10,9 @@ https://github.com/josidbobo/literate-octo-palm-tree/commit/0c98be0d063862dbb157
 
 # Second Task Contributions
 Worked on the Tests for our smart contract
+https://github.com/josidbobo/vigilant-octo-fiesta/commit/dac341e4dbcc5f8838ca5131fcee9ed17239f577
+
+# Third Task Contributions
+
 
 
