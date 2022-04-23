@@ -9,10 +9,15 @@ https://github.com/prince-curie/literate-octo-palm-tree/pull/15
 https://github.com/josidbobo/literate-octo-palm-tree/commit/0c98be0d063862dbb157fed7f3025a52a97739d9
 
 # Second Task Contributions
-Worked on the Tests for our smart contract
+Wrote Tests for our smart contract
 https://github.com/josidbobo/vigilant-octo-fiesta/commit/dac341e4dbcc5f8838ca5131fcee9ed17239f577
 
 # Third Task Contributions
+1. Wrote a function to get Elections from Election factory and refactored some code
+https://github.com/josidbobo/scaling-chainsaw/commit/afe3d46d8b9279b3aff69929f71a56f1170d2e44
+2. Wrote tests for the smart contract
+https://github.com/josidbobo/scaling-chainsaw/commit/0b63beda8a7e95b7171bb3b37360412c7f2f232d
+
 
 
 
